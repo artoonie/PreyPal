@@ -1,5 +1,3 @@
-# PreyPal: Exposing PayPal's fake security alerts
-
 ## 🎥 Watch the Video
 
 [![Watch the Video](https://www.youtube.com/shorts/sK6s___0djk)](https://www.youtube.com/shorts/sK6s___0djk)
