@@ -1,8 +1,5 @@
-# Site settings
-title: "PreyPal"
-description: "Exposing PayPal's fake, alarmist email"
-baseurl: "" # Leave blank for GitHub Pages
-url: "https://praypal.info" # Update with your GitHub Pages URL
-
-# Theme
-theme: tactile
+title: PreyPal
+description: Exposing PayPal’s fake security alerts
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-tactile
