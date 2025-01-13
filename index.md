@@ -2,7 +2,7 @@
 
 ## 🎥 Watch the Video
 
-[![Watch the Video](https://www.youtube.com/shorts/sK6s___0djk)](https://www.youtube.com/shorts/sK6s___0djk)
+[![Watch the Video](https://youtube.com/shorts/ChBA_Nx1FKg)](https://youtube.com/shorts/ChBA_Nx1FKg)
 
 ---
 
