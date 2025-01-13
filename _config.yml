@@ -5,7 +5,4 @@ baseurl: "" # Leave blank for GitHub Pages
 url: "https://praypal.info" # Update with your GitHub Pages URL
 
 # Theme
-theme: minima
-
-# Build settings
-markdown: kramdown
+theme: tactile
