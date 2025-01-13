@@ -1,7 +1,3 @@
-# PreyPal: Exposing PayPal's fake security alerts
-
----
-
 ## 🎥 Watch the Video
 
 [![Watch the Video](https://www.youtube.com/shorts/sK6s___0djk)](https://www.youtube.com/shorts/sK6s___0djk)
@@ -12,7 +8,6 @@
 
 <photo here>
 
----
 
 ## 📝 What's Going On?  
 
@@ -32,3 +27,13 @@ this email doesn't mean that somebody entered my credit card number.
 I guess it's just a generic, vague alert, meant to scare you into downloading their app.
 
 ...why are they so desparate to get us to download their app?
+
+## 🥔 Isn't this kind of small potatoes?
+
+Sure. But it's pretty stressful to wake up on a Sunday to a fake email and think you have to cancel your credit card and update your number in a million places.
+
+And I hate that big corporations always just get away with lying.
+
+My goals are twofold:
+1. PayPal should update their email to not mislead customers into thinking their credit card was stolen if it wasn't, and
+2. PayPal shouldn't make you download an app ever -- especially not to receive security information
