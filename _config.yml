@@ -1,0 +1,15 @@
+# Site settings
+title: "PreyPal"
+description: "Exposing PayPal's fake, alarmist email"
+baseurl: "" # Leave blank for GitHub Pages
+url: "https://praypal.info" # Update with your GitHub Pages URL
+
+# Author information
+author: 
+  name: "PreyPal]"
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
